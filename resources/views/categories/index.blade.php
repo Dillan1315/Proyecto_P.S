@@ -7,7 +7,7 @@
     <div>
         <div class="row d-flex justify-content-center mb-2">
             <div class="col-sm-10 d-flex">
-                <a href="{{ route('categories.create') }}" class="btn btn-primary">Nuevo proyecto</a>
+                <a href="{{ route('categories.create') }}" class="btn btn-primary">Crear Categoria</a>
             </div>
         </div>
         <div class="rowd-flexjustify-content-center">
